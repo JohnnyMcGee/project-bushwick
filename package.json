@@ -2,6 +2,9 @@
   "name": "project-bushwick",
   "version": "1.0.0",
   "description": "",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -14,6 +17,7 @@
   },
   "homepage": "https://github.com/JohnnyMcGee/project-bushwick#readme",
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.17.1",
+    "morgan": "1.10.0"
   }
 }
