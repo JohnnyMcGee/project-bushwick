@@ -1,0 +1,19 @@
+{
+  "name": "project-bushwick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnyMcGee/project-bushwick.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnnyMcGee/project-bushwick/issues"
+  },
+  "homepage": "https://github.com/JohnnyMcGee/project-bushwick#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
